@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Al9zBfKeDQ1uuy0ZY7EAiPeWtMiCk4TG/view?usp=sharing](https://drive.google.com/file/d/1Al9zBfKeDQ1uuy0ZY7EAiPeWtMiCk4TG/view?usp=sharing)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanthan15" alt="nanthan15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nanthan15&theme=onedark" alt="Nanthan" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nanthan-shetty-b260a9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanthan-shetty-b260a9247" height="30" width="40" /></a>
