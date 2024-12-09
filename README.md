@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanthan15&label=Profile%20views&color=0e75b6&style=flat" alt="nanthan15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanthan15" alt="nanthan15" /></a> </p>
+
 <img align="right" alt="Coding"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
 
 - 🔭 I’m currently working on **Agri-trading**
@@ -19,6 +19,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Al9zBfKeDQ1uuy0ZY7EAiPeWtMiCk4TG/view?usp=sharing](https://drive.google.com/file/d/1Al9zBfKeDQ1uuy0ZY7EAiPeWtMiCk4TG/view?usp=sharing)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanthan15" alt="nanthan15" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nanthan-shetty-b260a9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanthan-shetty-b260a9247" height="30" width="40" /></a>
