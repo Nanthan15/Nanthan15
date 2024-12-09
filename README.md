@@ -1,10 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)](https://nanthanshetty15.io)
 <h1 align="center">Hi 👋, I'm Nanthan Shetty</h1>
 <h3 align="center">A passionate full-stack developer from India with a passion for AI and blockchain technologies.</h3>
-<img align="right" alt="Coding"  width="400" src=https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanthan15&label=Profile%20views&color=0e75b6&style=flat" alt="nanthan15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanthan15" alt="nanthan15" /></a> </p>
+<img align="right" alt="Coding"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" >
 
 - 🔭 I’m currently working on **Agri-trading**
 
